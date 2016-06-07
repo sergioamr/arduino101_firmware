@@ -1,0 +1,1 @@
+arduino101_firmware/projects/curie_sdk/build/Makefile.mk
